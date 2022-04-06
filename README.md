@@ -1,5 +1,5 @@
 ### Hello World 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abayo-luc&show_icons=true&&theme=merko&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=abayo-luc&show_icons=true&&theme=dark&border_color=ffdf00&count_private=true" />
 
 > I'm Jean Luc Abayo (from 🇷🇼 Kigali) , software developer ninja.
 
