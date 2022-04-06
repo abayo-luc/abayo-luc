@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 
-> I'm Jean Luc Abayo (from 🇷🇼 Kigali) , software developer ninja.
+> I'm Jean Luc Abayo (from 🇷🇼 Kigali) , software developer Ninja.
 
 
 I am a Fullstack Software Developer with more than five years of professional experience developing a wide range of tools and products. I have strong experience in JavaScript (TypeScript, React, React-Native), Ruby on Rails, QA, and DevOps automation. I am here to be useful, and contributing to things that bring real meaningful changes. 
