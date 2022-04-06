@@ -6,7 +6,7 @@
 
 I am a Fullstack Software Developer with more than five years of professional experience developing a wide range of tools and products. I have strong experience in JavaScript (TypeScript, React, React-Native), Ruby on Rails, QA, and DevOps automation. I am here to be useful, and contributing to things that bring real meaningful changes. 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abayo-luc&&langs_count=10&layout=compact"/> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abayo_luc&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abayo-luc&&langs_count=10&layout=compact&show_icons=true&&theme=dark&border_color=14c94e&count_private=true"/>
 <!--
 **abayo-luc/abayo-luc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
