@@ -8,7 +8,7 @@ I am a Fullstack Software Developer with more than five years of professional ex
 
 <br/>
 
-<img style="width:45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abayo-luc&&langs_count=6&layout=compact&show_icons=true&&theme=dark&border_color=3fb950&count_private=true"/> <img align="right" style="width:45%" src="https://github-readme-stats.vercel.app/api?username=abayo-luc&show_icons=true&&theme=dark&border_color=3fb950&count_private=true" />
+<img style="width:45%" src="https://github-readme-stats.vercel.app/api?username=abayo-luc&show_icons=true&&theme=dark&border_color=3fb950&count_private=true" /> <img align="right" style="width:45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abayo-luc&&langs_count=6&layout=compact&show_icons=true&&theme=dark&border_color=3fb950&count_private=true"/>
 <!--
 **abayo-luc/abayo-luc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
