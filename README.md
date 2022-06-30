@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/01f5df11-6519-4d6d-92a2-5bd9c5e0f6eb.svg)](https://wakatime.com/@01f5df11-6519-4d6d-92a2-5bd9c5e0f6eb) 
+[![wakatime](https://wakatime.com/badge/user/01f5df11-6519-4d6d-92a2-5bd9c5e0f6eb.svg)](https://wakatime.com/@01f5df11-6519-4d6d-92a2-5bd9c5e0f6eb)  ![Profile views](https://gpvc.arturio.dev/abayo-luc)
 
 ### Hello World 👋
 
