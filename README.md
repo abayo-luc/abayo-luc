@@ -28,7 +28,7 @@ In summary, I am interested in new ideas and new ways of thinking, and I am here
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/01f5df11-6519-4d6d-92a2-5bd9c5e0f6eb.svg)](https://wakatime.com/@01f5df11-6519-4d6d-92a2-5bd9c5e0f6eb)   ![Profile views](https://gpvc.arturio.dev/abayo-luc)
 
-<img style="width:45%" src="https://github-readme-stats.vercel.app/api?username=abayo-luc&show_icons=true&&theme=dark&border_color=3fb950&count_private=true" /> <img align="right" style="width:45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abayo-luc&&langs_count=6&layout=compact&show_icons=true&&theme=dark&border_color=3fb950&count_private=true"/>
+<img style="width:45%" src="https://github-readme-stats.vercel.app/api?username=abayo-luc&&show_icons=true&&theme=dark&&border_color=3fb950&&count_private=true" /> <img align="right" style="width:45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abayo-luc&&langs_count=6&&layout=compact&show_icons=true&&theme=dark&border_color=3fb950&&count_private=true"/>
 
 ## Socials
 
