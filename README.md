@@ -8,8 +8,7 @@
 
 I got five + years of professional experience developing a wide range of tools and products. I have strong experience in JavaScript (TypeScript, React, React-Native), Ruby on Rails, QA, and DevOps automation. 
 
-I am interested in new ideas and new ways of thinking, and I am here to be useful, contributing to things that bring real meaningful changes, and have fun on the way. 
-<br/>
+I am not gonna bore you with me me me me, check my code. But again, I am interested in new ideas and new ways of thinking, and don't hesitate to reach out to me for collaboration, or just a talk about tech and innovation: jean.abayo@gmail.com
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
