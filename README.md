@@ -12,12 +12,12 @@ Currently contributing to engineering efforts at One Acre Fund, I thrive at the 
 
 Beyond code, I’m driven by a bigger mission: to build tools that solve real problems, empower my community, and grow into a leader who doesn’t just manage but inspires.
 
-Key Interests:
-• Scalable software architecture
-• DevOps & CI/CD automation
-• Firebase, React Native, NestJS, PostgreSQL
-• Building tech for social impact
-• Philosophy, psychology & sci-fi
+## Key Interests:
+- [x] Scalable software architecture
+- [x] DevOps & CI/CD automation
+- [x] Firebase, React Native, NestJS, PostgreSQL
+- [x] Building tech for social impact
+- [x] Philosophy, psychology & sci-fi
 
 Motto: “Write clean code. Lead with purpose. Stay grounded.”
 
