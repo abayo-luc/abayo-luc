@@ -10,7 +10,7 @@ I’m a senior fullstack engineer with 8+ years of hands-on experience building 
 
 Currently contributing to engineering efforts at One Acre Fund, where I enjoy the combination of product thinking and technical execution. I value simplicity, ownership, and building things that work.
 
-Beyond code, I’m driven by a bigger mission: to build tools that solve real problems, empower my community, and grow into a leader who doesn’t just manage but inspires.
+Beyond code, I’m driven by a bigger mission: to build tools that solve real problems, empower communities, and grow into a leader who doesn’t just manage but inspires.
 
 ## Key Interests:
 - [x] Scalable software architecture
