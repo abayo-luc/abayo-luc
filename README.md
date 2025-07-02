@@ -15,7 +15,7 @@ Beyond code, I’m driven by a bigger mission: to build tools that solve real pr
 ## Key Interests:
 - [x] Scalable software architecture
 - [x] DevOps & CI/CD automation
-- [x] Go,Typescript, React Native, Ruby, PostgreSQL
+- [x] Go,Typescript, React Native, Kotlin, Ruby, PostgreSQL
 - [x] Building tech for social impact
 - [x] Philosophy, psychology & sci-fi
 
