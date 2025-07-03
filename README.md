@@ -19,6 +19,6 @@ Beyond code, I’m driven by a bigger mission: to build tools that solve real pr
 - [x] Building tech for social impact
 - [x] Philosophy, psychology & sci-fi
 
-```Write simple clean code, lead with purpose, and stay grounded.```
+```Good code is like a good joke — it needs no explanation: write simple clean code, lead with purpose, and stay grounded.```
 
 
