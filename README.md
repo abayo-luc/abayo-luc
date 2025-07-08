@@ -6,7 +6,7 @@
 > I'm Jean Luc Abayo (from 🇷🇼 Kigali) , Software Artist.
 
 
-I’m a senior fullstack engineer with 8+ years of hands-on experience building scalable, user-focused software: from mobile apps that support farmers to backend systems that power traceability in supply chains.
+I’m a senior fullstack engineer with 9+ years of hands-on experience building scalable, user-focused software: from mobile apps that support farmers to backend systems that power traceability in supply chains.
 
 Currently contributing to engineering efforts at [One Acre Fund](https://github.com/one-acre-fund/), where I enjoy the combination of product thinking and technical execution. I value simplicity, ownership, and building things that work.
 
