@@ -11,6 +11,7 @@ I’m a senior fullstack engineer with 9+ years of hands-on experience building 
 Currently contributing to engineering efforts at [One Acre Fund](https://github.com/one-acre-fund/), where I enjoy the combination of product thinking and technical execution. I value simplicity, ownership, and building things that work.
 
 Beyond code, I’m curious about ideas and the hidden architecture of thought. 
+
 I lean more into:
 - Philosophy and psychology books
 - Tech and science discussion 
