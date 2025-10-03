@@ -10,7 +10,8 @@ I’m a senior fullstack engineer with 9+ years of hands-on experience building 
 
 Currently contributing to engineering efforts at [One Acre Fund](https://github.com/one-acre-fund/), where I enjoy the combination of product thinking and technical execution. I value simplicity, ownership, and building things that work.
 
-Beyond code, I’m curious about ideas and real-world. I lean more into:
+Beyond code, I’m curious about ideas and the hidden architecture of thought. 
+I lean more into:
 - Philosophy and psychology books
 - Tech and science discussion 
 - Current exploring side projects in construction and agriculture
@@ -19,7 +20,7 @@ Beyond code, I’m curious about ideas and real-world. I lean more into:
 ## Key Interests:
 - [x] Scalable software architecture
 - [x] DevOps & CI/CD automation
-- [x] Go,Typescript, React Native, Kotlin, Ruby, PostgreSQL
+- [x] Go,Typescript, React Native, Kotlin, Rust, PostgreSQL
 - [x] Building tech for social impact
 - [x] Philosophy, psychology & sci-fi
 
