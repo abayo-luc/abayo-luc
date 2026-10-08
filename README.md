@@ -21,7 +21,7 @@ I lean more into:
 ## Key Interests:
 - [x] Scalable software architecture
 - [x] DevOps & CI/CD automation
-- [x] Go,Typescript, React Native, Kotlin, Rust, PostgreSQL
+- [x] Go,Typescript (NextJs, NestJs, React, React Native), Kotlin, PostgreSQL, GraphQL
 - [x] Building tech for social impact
 - [x] Philosophy, psychology & sci-fi
 
